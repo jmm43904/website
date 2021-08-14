@@ -1,6 +1,6 @@
 ---
-title: Example Page
-nav: Example
+title: page 1
+nav: page 1
 nav_order: 1
 ---
 
