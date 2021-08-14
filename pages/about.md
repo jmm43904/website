@@ -1,5 +1,5 @@
 ---
-layout: page
+title: About This Example
 nav: About
 nav_order: 2
 ---
