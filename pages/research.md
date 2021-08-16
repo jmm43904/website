@@ -1,7 +1,7 @@
 ---
-title: page 1
-nav: page 1
-nav_order: 1
+title: Research
+nav: Research
+nav_order: 3
 ---
 
 Write pages in Markdown.
