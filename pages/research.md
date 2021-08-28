@@ -1,50 +1,15 @@
 ---
 title: Research
 nav: Research
-nav_order: 3
+nav_order: 4
 ---
 
-Write pages in Markdown.
+I am a 4th year Ph.D. candidate working under Dr. Abolfazl Hajihassani in the vegetable nematology laboratory at the University of Georgia. Georgia’s vegetable industry significantly impacts the nation’s supply of vegetables as it has been consistently ranked 3rd or 4th in utilized vegetable production followed by the states of California, Florida, and Arizona. To address any potential plant-parasitic nematode (PPN) threats to the vegetable industry, I determined the occurrence and distribution of PPNs in vegetable cropping systems. The survey was conducted in southern Georgia, where >85% of vegetable production occurs, comprising of 29 vegetable producing counties in 436 vegetable fields in the spring and fall of 2018. This study validated that Meloidogyne spp. is the most important PPN in vegetable fields of the southern Georgia. We found cultural practices to have a greater effect on PPN population dynamics than the environment (precipitation, soil temperature, soil moisture, soil texture, soil pH and soil EC). Specifically, Meloidogyne spp. were more associated at lower latitudes in the South region of Southern Georgia, where plastic bed vegetable cropping systems are more frequent. However, other PPN were associated with bare ground cropping systems in the North region. This suggest that other PPNs may not necessarily be associated with vegetables, but instead be associated with other row crops rotated in these vegetable fields and/or weeds associated with bare ground beds ([Marquez *et. al.*, 2021](https://doi.org/10.1094/PDIS-09-20-2019-RE)).
 
-## Heading Two 
+Because Meloidogyne spp. was the most important PPN found in vegetable fields, I determined the prevalence of different Meloidogyne species with molecular diagnostic methods. Samples were collected throughout the vegetable producing regions of southern Georgia consisting of a total of 293 Meloidogyne-infested fields. DNA samples from individual nematode females were identified with PCR using species-specific primers and mitochondrial haplotype-based identification by DNA sequencing fragments of the cytochrome c oxidase subunit II (COII) and the large subunit rRNA (l-rRNA), COII, and l-rRNA gene. Five Meloidogyne species were detected (M. incognita, M. arenaria, M. javanica, M. floridensis and M. haplanaria). M. floridensis and M. haplanaria are new species to be detected in Georgia. The most prevalent species in vegetable fields of Georgia is M. incognita followed by M. arenaria. 
 
-Any text with no empty lines between will become a paragraph.
-Leave an blank line between headings and paragraphs.
-Font can be *Italic* or **Bold**.
-Code can be highlighted with `backticks`.
+PPNs can persist in the soil by vertical migration through the soil profile to circumvent unfavorable environmental conditions and nematicides. It has been suggested that vertical migration deeper into the soil profile occurs during extreme cold in the winter or heat in the summer. However, it is not clear how widespread this phenomenon occurs or if it occurs at all in vegetable fields in Georgia. Therefore, I pursued a study on seasonal fluctuations in population of PPNs through the soil profile by sampling 6 vegetable fields in southern Georgia among 5 different counties at 5 different depths at monthly intervals. We will determine whether the nematode population changes correlate with soil moisture, temperature, pH and bulk density. By understanding the seasonal fluctuations in vertical migration of root-knot nematodes, growers can more effectively time sampling of soil to assess nematode populations. In addition, our results will help growers determine the best depth of soil fumigation depending on the season of planting. This will lead to effective management of nematodes and reduce yield losses in vegetable production.
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
+Cover crop rotation remains an important cultural practice for plant-parasitic nematode management and is recommended for vegetable production systems in the southeastern USA to circumvent high weed, insect and disease pressure associated with a warm climate. Because Meloidogyne spp. have a broad host range and high incidence in vegetable fields, the correct cover crop selection is critical when root-knot nematode is an issue. Therefore, I conducted a study to evaluate the host status of cover crop candidates for suppression of Georgia’s major root-knot nematode populations and compare them with cover crops identified as the most suppressive from previous studies. Two greenhouse trials tested the host status of 14 species and 18 cultivars with the addition of a tomato cv. Rutgers (Solanum lycopersicum) against M. incognita race 3, M. arenaria race 1, and M. javanica. Though all the cover crop, except hairy vetch and blue lupine, had little to no galls, some had a significant number of egg mass that suggest these crops are either poor-host or susceptible. Cultivars of sorghum-sudangrass (Sorghum bicolor x S. sudanense) and sunn hemp (Crotalaria juncea) varied in being a susceptible host or non-host, possibly due to variability in genetic resistance. This study suggest that many cover crops do not show obvious root-galling, but some may be considered susceptible or poor-host based on egg mass production.
 
-### Lists 
-
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
-
-Horizontal rule:
-
---------------
-
-{% include figure.html img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png" alt="white cat" caption="I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png)." %}
-
-> A block quote.
-> Is like this.
-{:.blockquote}
-
-### A Table
-
-| header | column a | column b |
-| --- | --- | --- |
-| dogs | 3 | 6 |
-| cats | 3 | 6 |
-| muffins | 15 | 30 |
-{:.table .table-striped}
+Sunn hemp (*Crotalaria juncia*) has been proposed as an excellent candidate for vegetable rotations in southeastern United States due to its ability to fix nitrogen, produce large volume of biomass, be a poor-host to root-knot nematodes and suppress fungal soil-borne pathogens through allelopathy. The aim of this study was to determine the best cultural practices of seasonal vegetable crop rotation and tillage practices in conjunction with either sunn hemp cover cropping in the spring or fall or rye in the winter. The field study consisted of two vegetable crops, tomato (S. lycopersicum cv. Red Bounty and BHN 602) and squash (Cucurbita pepo cv. Spineless Beauty) grown in the spring and fall of 2019 and 2020, respectively. Main-plot treatments consisted of tillage practices: shallow tillage or deep tillage after termination of crops. Sub-plot treatments consisted of two factors: 1) sunn hemp (cv. unspecified) or fallow rotation, 2) crop rotations in which sunn hemp or fallow plots were rotated in the spring or fall or rye in the winter. At squash planting, M. incognita counts in soil were higher when plots previously had tomato than sunn hemp, while plots previously left fallow had equal population density to those previously grown with tomato (P<0.05). Root-gall index of squash was higher when plots previously had tomato than sunn hemp or fallow. Soil soluble nitrates were significantly greater (4.6 ppm) at squash planting when sunn hemp was previously grown than tomato (2.8 ppm) followed by fallow (0.8 ppm). Squash height was greater in previously grown sunn hemp plots than fallow (P<0.05), possibly due to higher soluble nitrates in the soil from decomposition of sunn hemp biomass. Though there were no difference in squash yield per plant, plots that previously had sunn hemp had significantly higher stand counts than plots with tomato previously. Higher stand count may be related to allelopathic suppression of M. incognita and damping-off disease (Rhizoctonia solani). Sunn hemp in the spring suppressed biomass of grass weeds in the following fall season compared to fallow plots but did not differ with previous tomato plots (P<0.05). This study shows that sunn hemp can successfully suppress root-knot nematode in the soil for the following vegetable crop.

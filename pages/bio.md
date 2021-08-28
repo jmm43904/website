@@ -3,5 +3,8 @@ title: My story
 nav: Bio
 nav_order: 1
 ---
-<hr>
-## Example H2
+---
+
+Working on my undergraduate honors thesis project, I had the opportunity to gain experience under a soil scientist at the University of Hawaii, **Dr. Johnathan Deenik**, which have been relevant for my current research and may also be for your research projects. I have greatly valued this training in my current M.S. project, as I study the relationships of soil edaphic factors, nematode soil health indicators, and EPNs with multivariate analysis using Canoco software. Through the guidance from Dr. Miaoying Tian, Dr. Roxana Myers, Dr. Brent Sipes and fellow graduate students in our department, I have acquired standard molecular techniques to identify EPNs by conducting PCR of the ITS region for DNA sequencing and constructing a phylogenetic tree. These techniques have assisted me to better identify the unknown EPN species found in my field trials.
+Over the years, I have developed interest in the study of plant pathology as I have found that plant pests and pathogens are major obstacle for growers, especially in tropical and subtropical climates. I really acknowledge the importance of nematode management as I hear the struggles growers have to manage plant-parasitic nematodes. Although my M.S. thesis is not emphasized on plant-parasitic nematode management, the lab I am working in provide a good team working experience where I collaborate with  with my colleagues Philip Waisen, Shova Mishra, and  Xiaodong You on their projects related to root-knot nematode management using glucosinolate producing cover crops or vermicompost tea treatment, respectively. 
+My professional goal is to become a specialist in the field of Plant Pathology so as to add to the task force to develop nematode management programs either in acadamia or the crop industries.

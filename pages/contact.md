@@ -3,7 +3,7 @@ title: Contact
 ---
 
 **Josiah Marquez**
-Ph.D. student
+Ph.D. Canididate
 Graduate Research Assistant
 Vegetable Nematology Lab
 

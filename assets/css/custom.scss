@@ -5,7 +5,7 @@
 
 /* Optionally tweak base body text and link color */
 $text-color: #111 !default;
-$link-color: #88176c !default;
+$link-color: #80a032 !default;
 
 /* Set contain-narrow size for page-narrow layout */
 $container-narrow: 700px;
@@ -13,7 +13,11 @@ $container-narrow: 700px;
 /* Optionally limit container size to make reading easier */
 // $container-max: 750px;
 
-$grey-color: #cdcdcd;
+$grey-color: #a7a3a3;
+
+code {
+  color: #80a032;
+}
 /* 
   Colors to theme 
   set colors in _data/theme-colors.csv
