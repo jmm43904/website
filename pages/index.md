@@ -14,5 +14,5 @@ layout: default
     }
 </style>
 
-{% include jumbotron.html title="Welcome to Josiah's Website" lead="#### At [Hajihassani Nematology lab website](https://site.caes.uga.edu/nema/)" btn-text="Contact" btn-link="contact.html"%}
+{% include jumbotron.html title="Welcome to Josiah's Website" lead="#### Currently working at [Hajihassani Nematology lab](https://site.caes.uga.edu/nema/)" btn-text="Contact" btn-link="contact.html"%}
 
