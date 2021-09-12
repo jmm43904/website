@@ -16,3 +16,5 @@ layout: default
 
 {% include jumbotron.html title="Welcome to Josiah's Website" lead="#### Currently working at [Hajihassani Nematology lab](https://site.caes.uga.edu/nema/)" btn-text="Contact" btn-link="contact.html"%}
 
+{% include figure.html img="IMG_20180524_121556.jpg" alt="soil sampling" caption="## Sampling a cowpea field in Turner County" %}
+

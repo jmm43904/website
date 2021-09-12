@@ -9,6 +9,7 @@
 
 {% endcomment %}
 <figure class="figure text-center p-3 w-100">
-    <img src="{{ include.img | relative_url }}" alt="{{ include.alt }}" {% if include.width %}style="width:{{ include.width }};"{% endif %} class="figure-img img-fluid rounded">
+    <img src="{{ include.img | relative_url }}" width="400" 
+    height="500" alt="{{ include.alt }}" {% if include.width %}style="width:{{ include.width }};"{% endif %} class="figure-img img-fluid rounded">
     {% if include.caption %}<figcaption class="figure-caption">{{ include.caption | markdownify }}</figcaption>{% endif %}
 </figure>

@@ -1,7 +1,7 @@
 ---
-title: My story
-nav: Bio
-nav_order: 1
+title:
+nav:
+nav_order:
 ---
 ---
 
