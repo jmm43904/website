@@ -3,9 +3,9 @@ title: Publications
 nav: Publications
 nav_order: 4
 ---
-1.  Hajihassani, A., **Marquez**, J., Woldemeskel, M., and Hamidi, N. 2021. [Identification of four populations of Meloidogyne incognita in Georgia, USA capable of parasitizing tomato bearing Mi-1.2 gene](https://doi.org/10.1094/PDIS-05-21-0902-RE). Plant Disease 105 (accepted).
+1.  Hajihassani, A., **Marquez**, J., Woldemeskel, M., and Hamidi, N. 2021. [Identification of four populations of *Meloidogyne incognita* in Georgia, USA capable of parasitizing tomato bearing Mi-1.2 gene](https://doi.org/10.1094/PDIS-05-21-0902-RE). Plant Disease 105 (accepted).
 
-2. **Marquez**, J., Forghani, F., and Hajihassani, A. 2021. [First report of the root-knot nematode, Meloidogyne floridensis, on tomato in Georgia, USA](https://apsjournals.apsnet.org/doi/10.1094/PDIS-10-20-2286-PDN) Plant Disease 105.
+2. **Marquez**, J., Forghani, F., and Hajihassani, A. 2021. [First report of the root-knot nematode, *Meloidogyne floridensis*, on tomato in Georgia, USA](https://apsjournals.apsnet.org/doi/10.1094/PDIS-10-20-2286-PDN) Plant Disease 105.
 
 3. **Marquez**, J., Severns, P.M. and Hajihassani, A. 2021. [The influence of the environment and vegetable cropping systems on plant-parasitic nematode communities in southern Georgia, USA. Plant Disease 105](https://doi.org/10.1094/PDIS-09-20-2019-RE). 
 
