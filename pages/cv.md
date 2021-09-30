@@ -22,10 +22,10 @@ nav_order: 2
 |Year|Award|
 |---|---|
 |**2021**|University of Georgia Graduate School Domestic Travel Grant|
-|**2021**|Bayer Graduate Student Travel Award for the 60th annual meeting of the Socieity of Nematologist|
+|**2021**|Bayer Graduate Student Travel Award for the 60th annual meeting of the Society of Nematologist|
 |**2020**|Travel award for the 7th International Congress of Nematology|
 |**2018**|University of Georgia graduate school summer research travel grant|
-|**2017**|Dow AgroSciences Graduate Student Travel Award for the 56th annual meeting of the Socieity of Nematologist|
+|**2017**|Dow AgroSciences Graduate Student Travel Award for the 56th annual meeting of the Society of Nematologist|
 |**2015**|High Honors in Tropical Plant and Soil Sciences|
 |**2014**|University of Hawaii Honors Program|
 |**2014**|Best poster for CTAHR Symposium in Tropical Plant and Soil Science|
