@@ -2,18 +2,11 @@
 title: Contact
 ---
 
-**Josiah Marquez**
-Ph.D. Canididate
-Graduate Research Assistant
-Vegetable Nematology Lab
+**Dr. Josiah Marquez**
+Plant pathologist
 
-**University of Georgia**
-Department of Plant Pathology
-2360 Rainwater Rd. Tifton, GA 31793,
-Plant Science Building Room 153
+**Hawaii Department of Agriculture**
+1428 S King Street
+Honolulu, HI 96814
 
-**Email:** josiah.marquez@uga.edu
-
-**Mailing Address:** 2360 Rainwater Rd, Tifton GA 31793
-
-**Shipping Address:** 115 Coastal Way, Tifton GA 31794
+**Email:** farmerjosiah@gmail.com
