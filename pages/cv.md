@@ -73,6 +73,7 @@ nav_order: 2
 8. **`Marquez`**, J., Wang, K.-H., Sipes, B. S., & Cheng, Z. 2016. Understanding the roles of soil water conservation on indigenous entomopathogenic nematodes and entomopathogenic fungi in a no-till organic mulching system. Paper presented at the 55th annual meeting of the Society of Nematologists, Montréal, Canada.
 
 9. **`Marquez`**, J., Wang, K.-H., Sipes, B. S., & Cheng, Z. 2016. Effects of organic mulch on indigenous entomopathogenic nematodes and entomopathogenic fungi in a no-till cropping system. Paper presented at CTAHR student research symposium, Honolulu, HI.
+
 10. **`Marquez`**, J., Crow, S.E., Evensen, C. I., and Deenik, J.L. 2014.The potential of biochar to remediate Mn toxicity in an acidic oxisol. Paper presented at UROP fall forum, Honolulu, HI.
 
 11. **`Marquez`**, J., Wang, K.-H., Sipes, B. S., & Cheng, Z. 2014. Soil solarization as a weed management tool for organic farming in Oahu. Paper presented at CTAHR student research symposium, Honolulu, HI.
